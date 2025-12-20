@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main (){
+    int x=11;
+    x--;
+    printf("%d",x);
+}
