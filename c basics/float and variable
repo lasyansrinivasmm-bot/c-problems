@@ -1,0 +1,12 @@
+#include <stdio.h>
+int main() {
+    //Your Code goes here!
+    float num;
+    scanf("%f",&num);
+    printf("%.1f",num);
+    return 0;
+}
+
+
+
+}
