@@ -1,0 +1,9 @@
+#include <stdio.h>
+int main() {
+    //Your Code goes here!
+    int num;
+    int  result=++num;
+      scanf("%d",&result);
+         
+    return 0;
+}
