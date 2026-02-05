@@ -1,0 +1,9 @@
+#include <stdio.h>
+int main() {
+    //Your Code goes here!
+    int a=20;int b=5,divide;
+    divide =a/b;
+    printf("%d", divide);
+
+    return 0;
+}
