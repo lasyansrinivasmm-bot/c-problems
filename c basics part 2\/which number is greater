@@ -1,0 +1,14 @@
+#include <stdio.h>
+int main() {
+    //Your Code goes here!
+    int a,b ;
+    scanf("%d%d",&a,&b);
+    if(a>b){
+        printf("%dis the greater",a);
+
+    }
+    else{
+        printf("%d is the greater ",b);
+    }
+    return 0;
+}
